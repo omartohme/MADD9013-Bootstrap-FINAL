@@ -1,0 +1,14 @@
+#bootstrap-overide li {
+    line-height: 2.6;
+    text-decoration-color: gray;
+}
+
+@media all and (min-width: 34rem) {
+    #bootstrap-overide li {
+        display: inline;
+    }
+}
+
+#ayy {
+    background-image: url("http://i.imgur.com/BdfDJFR.png")
+}
